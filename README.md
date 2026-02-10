@@ -11,4 +11,6 @@ Clean light mode design with color-coded categories
 
 Available as .apkg (import directly into Anki) and .csv (if you want to customize or use with other flashcard apps).
 
+Source: https://culturedcode.com/things/support/articles/2939808/
+
 Last updated 2026-02-10
